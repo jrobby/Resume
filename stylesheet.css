@@ -1,16 +1,58 @@
+/*html, body, h1, h2, h3, p, ol, ul, li, a{
+	padding:0;
+	border:0;
+	margin:0;
+}*/
+
+
+
 body {
 	font: 22px Times;
 	
 }
-
-.contact { word-spacing: 1}
 .bodybox {
-	background-color: gray;
+
+	width: 600px;
+	background-color: #EEEEEE;
     margin-left: 200px;
     margin-right: 200px;
-    margin-top: 20px;
-    padding: 10px 150px;
-    text-align: left;}
+    margin-top: 10px;
+    padding: 10px 100px;
+    text-align: left;
+}
+
+
+
+
+
+.robby {
+	/*margin: 5px 0 0 0;
+	padding: 5px 0 0 0;
+	font-size: 30px;
+	font-weight: bold;
+	
+	width: 120%;*/
+	
+
+}
+
+h1 {
+	padding: 15px 0 0 0;
+	margin: 0 10px 0 0;
+	font-size: 50px
+
+}
+
+
+.contact { word-spacing: 1;
+		font-size: 15px;
+		margin: 0 0 0 5px;
+		padding: 0 0 0 10px; 
+		float:right;
+		
+		
+}
+
 
 	
 h3 {border-bottom: 2px solid #000;}
@@ -21,33 +63,27 @@ h3 {border-bottom: 2px solid #000;}
 }
 
 .job_description { 
-	margin-left: 50px;}
+	margin-left: 35px;}
 
 .courses {
 	margin-left: 50px;
 }
 
-.robby {
-	margin: 0 0 16px 0;
-	padding: 0 0 16px 0;
-	font-size: 38px;
-	font-weight: bold;
-	border-bottom: 1px solid #000;
 
-}
-.intro {
-	font-size: 23px;
+.profile {
+	font-size: 19px;
     font-style: italic;
-    margin: 0 0 16px;
+    margin: 0 0 0 0;
+    padding-top: 1px;
+   
+  
     
 }
 
-
-
-
-.experience {
+.osu {
 	font-size: 30px
-
+	margin-top: 0;
+	padding-top: 1px;
 
 }
 
